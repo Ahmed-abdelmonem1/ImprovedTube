@@ -39,7 +39,7 @@
         "message": "سماح"
     },
     "allow60fps": {
-        "message": "السماح لـ60إطار"
+        "message": " السماح لـ60إطارفي الثانيه"
     },
     "alwaysActive": {
         "message": "دائما نشط"
@@ -72,7 +72,7 @@
         "message": "الصوت"
     },
     "audioFormats": {
-        "message": "تنسيقات الصوت"
+        "message": "أنماالصوت"
     },
     "auto": {
         "message": "تلقائي"
@@ -579,7 +579,7 @@
         "message": "فيديوهات ذات علاقة"
     },
     "removeRelatedSearchResults": {
-        "message": "إزالة عمليات بحث مرتبطة بـ"
+        "message": "إزالة عمليات البحث ذات الصلة"
     },
     "repeat": {
         "message": "تكرار"
